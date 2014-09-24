@@ -1,0 +1,11 @@
+{
+  "name": "SuperSlide",
+  "version": "2.1.1",
+  "main": "jquery.superslide.2.1.1.js",
+  "license": "MIT",
+  "keywords": [
+    "jquery",
+    "javascript",
+    "library"
+  ]
+}
